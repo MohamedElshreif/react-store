@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ### Live Peview : https://5f7a9590243c6401360e2d8f--sad-easley-cf685d.netlify.app/
+
+## Tools : 
+#### React 
+#### Context API
+#### Styled Components
+
+## Images :
+
+![download (2)](https://user-images.githubusercontent.com/43346326/100550709-5d75b880-3284-11eb-8132-0dca2fe1397e.png)
+![download (3)](https://user-images.githubusercontent.com/43346326/100550710-5ea6e580-3284-11eb-9416-a35a764bf23e.png)
+![download (4)](https://user-images.githubusercontent.com/43346326/100550712-5fd81280-3284-11eb-8664-f9a534dd9251.png)
 ## Available Scripts
 
 In the project directory, you can run:
